@@ -1,5 +1,26 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+
+Personal Fitness Coach Bot is a fitness-focused chatbot that provides workout routines, suggests meal plans, and gives daily motivational messages which will help you in your fitness journey everything personalized just for your needs.
+
+Deployed link: https://personal-fitness-coach-bot.vercel.app/
+
+Just ask your bot coach everything needed for your fitness journey.
+
+![image](https://github.com/user-attachments/assets/d03b5558-575e-40cb-8a5e-2aa1ffd6c462)
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Getting Started
 
 First, run the development server:
