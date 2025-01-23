@@ -14,6 +14,10 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
+  height: 100vh; /* Ensure full viewport height is used */
+  display: flex; /* Use Flexbox for centering */
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
 }
 
 body {
@@ -39,4 +43,14 @@ a {
   html {
     color-scheme: dark;
   }
+}
+
+/* Add styles for chatbot container for better appearance */
+.chatbot-container {
+  width: 400px; /* Adjust width of the chatbot */
+  max-width: 90%; /* Ensure it fits smaller screens */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+  border-radius: 16px; /* Rounded corners for a polished look */
+  background-color: var(--background); /* Match background color */
+  overflow: hidden; /* Prevent content overflow */
 }
